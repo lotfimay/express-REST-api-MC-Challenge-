@@ -1,0 +1,16 @@
+{
+    "name": "mc-challenge-express",
+    "version": "1.0.0",
+    "description": "mc challenge",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "lotfi",
+    "license": "ISC",
+    "dependencies": {
+        "express": "^4.17.2",
+        "mongoose": "^6.1.9",
+        "dotenv": "^15.0.0"
+    }
+}
